@@ -1,7 +1,8 @@
-# tableau-amazon-sales-dashboard
-My very first Interactive Tableau dashboard analysing Amazon sales data with insights on top products, categories, and weekly performance trends.
+# 📊 My First Interactive Tableau Dashboard
 
-# 📊 Amazon Sales Analytics Dashboard (Tableau)
+**Amazon Sales Analytics Dashboard** — analysing Amazon sales data with insights on top products, categories, and weekly performance trends.
+
+---
 
 ## 🧠 Overview
 This project marks my **first practical step into the world of analytics**, created as part of a Tableau webinar.  
@@ -37,28 +38,28 @@ Users can click on any visual element to dynamically update the other charts, al
 ---
 
 ## 🛠️ Tools Used
-- **Microsoft Excel (AI-powered cleaning)**
-- **Tableau (Visualisation & Dashboard Building)**
+- **Microsoft Excel** (AI-powered data cleaning)  
+- **Tableau** (Visualisation & Dashboard Building)
 
 ---
 
 ## 📸 Dashboard Preview
-*(Replace the below path with your uploaded image link once added)*
+*(Replace the path with your uploaded image link once added)*
 
 ![Amazon Sales Dashboard Preview](images/amazon-dashboard.png)
 
 ---
 
 ## 💡 Key Learnings
-- Practical exposure to **data cleaning and transformation**
-- Experience in **building interactive dashboards** using Tableau
+- Practical exposure to **data cleaning and transformation**  
+- Experience in **building interactive dashboards** using Tableau  
 - Understanding how **data storytelling** helps derive actionable business insights
 
 ---
 
 ## 🔗 Connect with Me
 If you’d like to discuss analytics, dashboards, or visualisation techniques —  
-feel free to connect with me on [LinkedIn](www.linkedin.com/in/manjotsingh0904).
+feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manjotsingh0904).
 
 ---
 
