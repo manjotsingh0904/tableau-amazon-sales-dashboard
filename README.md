@@ -44,7 +44,6 @@ Users can click on any visual element to dynamically update the other charts, al
 ---
 
 ## 📸 Dashboard Preview
-*(Replace the path with your uploaded image link once added)*
 
 ![Amazon Sales Dashboard Preview](Amazon-Dashboard.png)
 
